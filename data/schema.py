@@ -15,10 +15,5 @@ HOLDINGS_REQUIRED_COLUMNS: List[str] = [
 
 TRADES_REQUIRED_COLUMNS: List[str] = [
     "PortfolioName",
-    "TradeTypeName",
-    "AsOfDate",
-    "PL_DTD",
-    "PL_MTD",
-    "PL_QTD",
-    "PL_YTD"
+    "TradeTypeName"
 ]
